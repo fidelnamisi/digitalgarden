@@ -5,6 +5,8 @@
 
 ---
 
+[Test](000.%20Work/003.%20Fleeting%20Notes/Test.md)
+
 This is just a quick test note to see if all my changes are being pushed everywhere nicely.
 
 And also to see if [[000. Work/003. Fleeting Notes/Obsidian integration|Obsidian integration]] is working well.
